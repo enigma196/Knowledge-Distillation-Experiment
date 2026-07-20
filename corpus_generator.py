@@ -5,7 +5,7 @@ from datasets import load_dataset
 from tqdm import tqdm
 import os
 
-os.environ["HF_TOKEN"] = "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"
+os.environ["HF_TOKEN"] = "VOTRE_TOKEN_D_IDENTIFICATION_HUGGING_FACE"
 # ==========================================================
 # Configuration
 # ==========================================================
